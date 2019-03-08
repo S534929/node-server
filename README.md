@@ -42,7 +42,7 @@ npm start
 ## Open a Browser Client
 
 1. Open a web browser.
-2. Go to the URL: <http://127.0.0.1:3001/> or <http://localhost:3001/>.
+2. Go to the URL: <http://127.0.0.1:3000/> or <http://localhost:3000/>.
 
 ## Modify and Restart
 
